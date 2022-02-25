@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Vindication of the proceedings of the gentlemen of the Inner-Temple</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 43 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65047</idno>
+            <idno type="STC">Wing V527</idno>
+            <idno type="STC">ESTC R39403</idno>
+            <idno type="EEBO-CITATION">18395851</idno>
+            <idno type="OCLC">ocm 18395851</idno>
+            <idno type="VID">107480</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65047)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107480)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1134:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Vindication of the proceedings of the gentlemen of the Inner-Temple</title>
+                  <author>Publicola Anticlassicus.</author>
+               </titleStmt>
+               <extent>[10], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Cambridge (England) printed :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Publicola Anticlassicus.</note>
+                  <note>Imperfect: cropped and tightly bound, with print show-through.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Constitutional history --  Great Britain.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:107480:1"/>
+               <pb facs="tcp:107480:1" rendition="simple:additions"/>
+A VINDICATION OF THE PROCEEDINGS OF THE GENTLEMEN OF THE Inner-Temple</p>
+            <q>Si ſapimus Patruos tunc, tunc igonoſcite <bibl>—<hi>Juvenal.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>CAMBRIDGE,</hi> Printed in the Year 1662.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:107480:2"/>
+            <pb facs="tcp:107480:2"/>
+            <head>To the Gentlemen of the <hi>Inner Temple,</hi> and eſpecially to his Choyceſt Friend <hi>DEMOPHILUS.</hi>
+            </head>
+            <opener>
+               <salute>Dear Demophilus,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Muſt ingeniouſly confeſſe unto thee, that theſe crude Conceptions (and which perhaps from ſome Cenſurers may have the Epithite of Fanatical) are alltogether deſtitute of thoſe common Apolo<g ref="char:EOLhyphen"/>gies, for most Publications. It was not the irreſiſtable importunity of ſoliciting Friends that raviſhed this Paper from the private confinement of a Study, and proſtituted it to a publick view. Neither was it a neceſſary
+<pb facs="tcp:107480:3"/>
+obedience to the commands of ſome Honoura<g ref="char:EOLhyphen"/>ble Sir, or Noble Patron, that influenced my pen: Nor yet ſelf-vindication, or the pre<g ref="char:EOLhyphen"/>vention of falſe and ſurreptitious Copies, No, I grant <hi>Demoph.</hi> it is that General Itch of Scribling, that hath ſet my pen a ſcratching. And thou ſhouldeſt no more wonder that in this Age one ſhould be a Writer, than that a man ſhould have the <hi>Plague</hi> in a general <hi>In<g ref="char:EOLhyphen"/>fection.</hi> Nor could the ſence of my own diſ<g ref="char:EOLhyphen"/>abilities and infirmities hold my hand, For ſince the wiſeſt of men hath comprehended all under that diffuſive <hi>Genus</hi> of Vanity, ſo as the Character of Madneſſe and Folly, is as compatible to <hi>Ariſtotles Politicks,</hi> as <hi>Tom Thumbs.</hi> I knew no reaſon why I might not publiſh my Follies too, when I had ſo many precedents for my failings: And in this I thought my ſelf beyond the reach of reprehen<g ref="char:EOLhyphen"/>ſion, for whoſoever would convict me of Folly, muſt in the ſame Act condemn himſelf of Madneſſe; ſince then my phanſie prompted
+<pb facs="tcp:107480:3"/>
+me, and my leiſure from ſeverer ſtudies gave me an opportunity of employing my pen, I thought it could not better be imployed, then in endeavouring a token of my Gratitude and Affection to that Society, and thoſe Gentlemen I am ſo highly obliged to. I am not ſo preſump<g ref="char:EOLhyphen"/>tious as to imagine I can merit any thing from them, the higheſt my hopes aym at, is, that perhaps this weak ſparke may have the For<g ref="char:EOLhyphen"/>tune to kindle a Nobler flame, which like the Pillar of Fire to the <hi>Iſraelites,</hi> may Light us through this Wilderneſſe of Confuſion and Diſorder we now live under, to the happy <hi>Canaan</hi> of a civil and equitable Govern<g ref="char:EOLhyphen"/>ment. To uſe Arguments to perſwade a man to engage in this Quarrel, would diſcommend the Cauſe, as if the Juſtice and Gallantry of the Attempt had not Rhetorique enough in it to awake the moſt Drowſy Spirit. Is it Noble and Honourable to engage for ones Country? Did Humanity and an innate Compaſsion prompt <hi>Moſes</hi> for to reſcue the diſtreſſed
+<pb facs="tcp:107480:4"/>
+               <hi>Iſraelite</hi> from the inſulting <hi>Aegyptian?</hi> Hath Shame and Diſgrace any influence on a Generous Spirit? Then what greater Re<g ref="char:EOLhyphen"/>nown can be expected, then from a Victory over ſo potent and continually encroaching an Enemy? What greater a mercy can we ſhew to our ſelves and ſucceſſors, then to restore us and them to thoſe Rights and Privileges, Law, Nature, and Reaſon have indulged unto us? Nay then we need not bluſh, as formerly, and be forced, when asked what Government we live under, either to affect an ignorance, to our own diſparagement, or forge an <hi>Utopian</hi> plat-form, or elſe proclaim that ſad Truth, that in thoſe places where the Laws are ſtudi<g ref="char:EOLhyphen"/>ed and profeſſed, there is a Government void of Law and Reaſon; Vexatious and Oppreſ<g ref="char:EOLhyphen"/>ſive Gentlemen<g ref="char:punc">▪</g> from theſe hard Inconveni<g ref="char:EOLhyphen"/>ences you may ſoon be freed, thoſe benefits you may quickly be Bleſſed with, if you will have but as much Affection for your ſelves, as you have had Favour and Patience towards your
+<pb facs="tcp:107480:4"/>
+Enemies. Let your Charity fix its ſelf on its proper Centre at home, Truſt not the Songs of <hi>Sirens,</hi> Nor ruſh into the Armes of thoſe fawning <hi>Sileni,</hi> that kill with their Embra<g ref="char:EOLhyphen"/>ces. What, hath His Majeſties Happy Re<g ref="char:EOLhyphen"/>stauration Bleſſed the whole Kingdom with the Enjoyment of a Hopefull proſperity, and muſt <hi>We</hi> alone be Baniſhed from this Felicity? When the Nation is freed by this great <hi>Ju<g ref="char:EOLhyphen"/>bilee</hi> from a <hi>Rump</hi> Bondage, muſt a <hi>Rump Parliament</hi> be ſtill our Maſters? When po<g ref="char:EOLhyphen"/>pular Fury ſacrificed it to Revenge, did this <hi>Phoenix</hi> ariſe from thoſe Aſhes? Methinks when I have been at <hi>Weſtminſter,</hi> and ſeen thoſe <hi>Traytors Heads,</hi> and after return to our own <hi>Hall,</hi> I ſuſpect my Dreaming phanſie gull'd me, Solicitor <hi>Cooke,</hi> (or a Solicitor very like him) <hi>Bradſhaws, Scots,</hi> and <hi>Iretons,</hi> ſure they live, nay, they live and rule within our Walls, or elſe there is Tranſ<g ref="char:EOLhyphen"/>animation. For all the Actions of thoſe men, (except their Murthers) are here reiterated,
+<pb facs="tcp:107480:5"/>
+And the beſt Account can be given of our <hi>Inn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of <hi>Court</hi> Govtrnment, will be from this pa<g ref="char:EOLhyphen"/>rallel; Their <hi>Practice</hi> is the beſt Glaſſe to Repreſent our <hi>Politicks.</hi> Perhaps the ſower <hi>Catoes</hi> may frown on this truth, and me for ſpeaking of it, we know <hi>Veritas odi<g ref="char:EOLhyphen"/>um parit;</hi> but as I was never fond of their Favour, ſo I ſhall not be fearfull of their Diſpleaſure: For <hi>My</hi> part I have paſsive Obedience enough to Magazine my Breaſt againſt the ſevereſt Cenſures their incenſed thoughts can frame; 'tis the Duty I owe to thoſe Noble and Ingenious Per<g ref="char:EOLhyphen"/>ſons I have had the Honour to converſe with which hath urged me thus far, and to ſuffer for their ſakes, I ſhall rather num<g ref="char:EOLhyphen"/>ber it among my Joyes, then rank it with my Afflictions, for I have allwayes prized the Love of my Equals above the favours of my Superiors. And <hi>Dear Demohpil.</hi> I have not counted it the ſmalleſt Benefit, nor the least part of my Happineſſe, that my good genius
+<pb facs="tcp:107480:5"/>
+hath conducted me into an Acquaintance and Intimacy with you, One whom Nature hath Bleſſed with Ingenuity, Candor, Fidelity, Prudence, and all thoſe Ingredients requiſite to the Compoſure of a true Friend, and I wiſh heartily I could give the World a more publick Acknowledgment how much I owe unto you, and though I am ſomething diffident what may be the hard Fortune of this poor Scribble, yet I cannot but be ſo vain as to applaud my ſelf for wiſe, in this particular Application of it to you, being one who hath ſo much Affection for me, as not to be Hypercritical, and hath ſo large a ſtock of Wit and Learning, as may patronize it from the Attempts of the ſtrong<g ref="char:EOLhyphen"/>eſt Oppoſers. And then I ſhould be proud of my good Service to the Society, if I were in<g ref="char:EOLhyphen"/>ſtrumental in bringing ſo ſmart a pen as yours to Vindicate their Cauſe, and this weak Eſſay would have the Honour to be a foyle to your polite and ſinewy tract, and indeed I ſhould rejoyce, that ſince I have no parts ca<g ref="char:EOLhyphen"/>pable
+<pb facs="tcp:107480:6"/>
+of it, that my imperfections may be ſer<g ref="char:EOLhyphen"/>viceable unto you, and give ſome Testimony of that Gratitude I am ever bound to ſhew for the Happineſſe I am Bleſſed with, that I can ſubſcribe my ſelf</p>
+            <closer>
+               <signed>
+                  <hi>Your Affectionate And Hearty Friend,</hi> Publicola Anticlaſsicus.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="vindication">
+            <pb n="1" facs="tcp:107480:6"/>
+            <head>A VINDICATION OF THE PROCEEDINGS OF THE GENTLEMEN OF THE Inner-Temple, &amp;c.</head>
+            <p>THat the Church hath had its Perſecutors and Oppoſers we all know; And that the <hi>Temple</hi> ſhould meet with Diſturbances and Diſcompoſures none of us ſhould wonder. If the one had her <hi>Convul<g ref="char:EOLhyphen"/>ſions,</hi> we may allow the other an <hi>Ague fit.</hi> But that the <hi>Prieſts</hi> who live by the <hi>Altar</hi>
+               <pb n="2" facs="tcp:107480:7"/>
+ſhould extinguiſh the <hi>Incenſe,</hi> and demoliſh the <hi>Altar,</hi> this may lawfully raiſe our Admi<g ref="char:EOLhyphen"/>ration: And this is our Caſe. Our <hi>High Priests</hi> and infallible <hi>Popes</hi> are not like thoſe in the Old Law, who would ſtrike their Trident into the Pot and go away contented with their ſhare: But with <hi>Ely</hi>'s Sons they cry out, <hi>nay Give us all, or we will take it by force;</hi> Rather than they will looſe one jot of their Power, the Houſe muſt looſe all its peace. I cannot but bluſh at theſe things, and heartily wiſh I had no cauſe to relate them; every ſtroke my Pen makes gives a ſcratch in my own breaſt, and my deſires are that I might withdraw my eyes from theſe things, and <hi>going backward cover the nakedneſs</hi> of theſe men, who are ſo <hi>drunk</hi> with their own proſperity, that they cannot forbear <hi>reeling</hi> into the greateſt extra<g ref="char:EOLhyphen"/>vagances. But it is a ridiculous Modeſty to <hi>hide</hi> that themſelves make ſo palpable.</p>
+            <p>For why ſhould I be aſhamed to ſpeak that which they have not bin aſhamed to act. The way then to vindicate the Society is to ſeperate the <hi>Innocent Sheep</hi> from the <hi>Gray-bearded Goats,</hi> and lay the Sin at the right door, and then per<g ref="char:EOLhyphen"/>chance the ſence or ſhame of it may cauſe A<g ref="char:EOLhyphen"/>mendment. That the World therefore may more plainly ſee into the juſtice of our Cauſe,
+<pb n="3" facs="tcp:107480:7"/>
+I ſhall unbowell the whole matter, and ſhow you the naked ſtate of our Buſineſs. Our <hi>Caſe</hi> is truly and impartially thus,</p>
+            <p>The Gentlemen of the Bench in a Parlia<g ref="char:EOLhyphen"/>ment at <hi>Allhallon-tide</hi> laſt make an Act for keeping of <hi>Chriſtmaſs,</hi> and in order to that chooſe ſome of the Noblemen of the Houſe (according to Cuſtome) grand Officers. In the cloſe of the Term the fickle Gentlemen wheel about, and begin to ſee a vanity in keep<g ref="char:EOLhyphen"/>ing that Feſtival, and therefore make a thing called an <hi>Act,</hi> whereby they diſſolve (for ſo the words of the <hi>Act</hi> are) the Commins from the Saturday before Saint <hi>Thomas</hi> day, till the Saturday after <hi>Epiphany.</hi> And who<g ref="char:EOLhyphen"/>ſoever comes into Commins in that time is to be expelled the Houſe, and forfeit his Cham<g ref="char:EOLhyphen"/>ber. In the ſame <hi>Parliament</hi> they make ano<g ref="char:EOLhyphen"/>ther <hi>Act</hi> (and 'tis pity theſe two ſhould be parted) whereby it is enacted, That when any one is expelled the Houſe, or put out of Com<g ref="char:EOLhyphen"/>mins, or doth adviſe any one to go out of Commins, or aſſiſt and abet him that is put, or thoſe that do put themſelves out of Com<g ref="char:EOLhyphen"/>mins, ſhall be uncapable of being called to the <hi>Bench</hi> or <hi>Barre,</hi> and have what other pu<g ref="char:EOLhyphen"/>niſhments ſhall be thought fit to be inflicted on him or them ſo offending. This being done in the laſt gaſp of the <hi>Term</hi> when there
+<pb n="4" facs="tcp:107480:8"/>
+were but few in Commins, and the reſt of the Gentlemen diſperſed, they could not have any opportunitie of redreſſe. In the <hi>Vaecation</hi> the Gentlemen being ſtirred up by this Alarum, meet, and were informed by many grave and prudent perſons, that they had an undoubted right to keep <hi>Chriſtmaſs,</hi> which could not be impeded by any Act of the Bench whatſoe<g ref="char:EOLhyphen"/>ver, and that the Government of the Houſe did then devolve it ſelf on them, and that the neglect of this priviledge might prove a great weakning, if not the utter ruine of it. Upon theſe grounds the Gentlemen fixed their reſo<g ref="char:EOLhyphen"/>lutions of a <hi>Chriſtmaſs.</hi> But that they might proceed with all poſſible modeſty and pru<g ref="char:EOLhyphen"/>dence, they attend upon that Gentleman cal<g ref="char:EOLhyphen"/>led the <hi>Sollicitor,</hi> lay open their Grievance, inform him of their intentions, and (which pleaſed <hi>him</hi> very much) beſeech <hi>his</hi> advice. <hi>He</hi> profeſſed his ignorance of the making that <hi>Act,</hi> and the deep reſentment <hi>He</hi> had of it, heartily wiſhing he were Maſter of ſo much power as to revoke it, or that he were ſo happy as to have had a Houſe in in the Town fit for our reception, that we might keep <hi>Chriſtmaſs</hi> with <hi>him.</hi> He told us he had known ſuch Acts as theſe ſometimes obſerved, and ſometimes rejected, ſo that there were Preſidents on both ſides. Theſe
+<pb n="5" facs="tcp:107480:8"/>
+ſmooth words, and this looſe way, and not <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rohibiting, we interpeted a tacite conſent, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd cloſe encouragement; ſo that then (think<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng our ſelves happy in ſo ingenious and able Patron) we put our Reſolutions into prac<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce, and go on in celebrating that <hi>Solemnity.</hi> But this laſt Term comming into Commins, we ſoon found what ſmall correſpondency <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in ſome Perſons between their thoughts <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd words, and that cool expreſſions are of<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en attended with actions of another temper; For the Maſter of the Bench did <hi>expell one Gentleman,</hi> and put two out of Commins. The reſt of the Gentlemen owning the Inte<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt of theſe Heroical perſons that ſuffered for <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir ſake, and ſtanding up in the vindication of their priv<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ledges, there enſued this Conteſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd claſh. And this is the true Original and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight ſtate of our preſent Condition. In this <hi>Caſe</hi> I ſhall firſt handle it abſtractly, and ſhew <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat the Bench have no Authority that can <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nable them to make ſuch an Act. Second<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, That conceding them ſuch a Power, yet <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aking the whole matter as it is cloathed with <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll the circumſtances, this particular Caſe will not be within the reach of that <hi>Act.</hi> So <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat the penalty inflicted was unjuſt and ille<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al. To prove the firſt I ſhall enquire, (and
+<pb n="6" facs="tcp:107480:9"/>
+think my ſelf happy if I meet with a reſoluti<g ref="char:EOLhyphen"/>on, and turn proſelyte to the Informer) How this ſuperlative Authority came veſted in them. All the wayes I can imagine are theſe three, either by the Nature or <hi>conſtitution of the Society,</hi> or by <hi>ſtipulation or paction,</hi> or elſe by <hi>Cuſtome.</hi> But I can find no firm foun<g ref="char:EOLhyphen"/>dation their Government can have on any of theſe.</p>
+            <p>And firſt for the nature of the Society.</p>
+            <p>For the nature of the Society it is undoubt<g ref="char:EOLhyphen"/>edly voluntary; for it never was <hi>incorporated;</hi> nay untill King <hi>James</hi> his time we never had a Grant of the Fabrick, but were merely Te<g ref="char:EOLhyphen"/>nants at will under the <hi>King;</hi> And that theſe were only places of reception for the conve<g ref="char:EOLhyphen"/>niency of converſe and other occaſions to thoſe that intended the ſtudy of the Law, is evident from the Names of <hi>Inne,</hi> or <hi>Hoſpitium,</hi> which is <hi>Domus quae</hi> 
+               <note place="margin">Bud. in So<g ref="char:EOLhyphen"/>lenc. ff. de offic. pro<g ref="char:EOLhyphen"/>cons.</note> 
+               <hi>liberaliter &amp; ſine prohibitione veni<g ref="char:EOLhyphen"/>enti hoſpiti patet.</hi> Like to thſe were the antient <hi>Hoſtells</hi> in <hi>Cam<g ref="char:EOLhyphen"/>bridge, Caj. Hiſtor. Cant.</hi> pag. 47. And the Halls in <hi>Oxford.</hi> And the <hi>Gild's</hi> or thoſe that aſſociated them<g ref="char:EOLhyphen"/>ſelves <note place="margin">
+                  <hi>Sir</hi> Hen. Spel<g ref="char:EOLhyphen"/>man, Gloſ. voce gild.</note> on a religious account. But none of theſe Societies were ever
+<pb n="7" facs="tcp:107480:9"/>
+preſumed to attempt the impoſing of Laws on their Fellows without their conſent; For indeed what can be more abſurd than to ima<g ref="char:EOLhyphen"/>gine, where there is a parity, that the Smal<g ref="char:EOLhyphen"/>ler part can have a Deſpotical power over the Greater, and make what Laws they pleaſe, and the other lye under a neceſſity of obedi<g ref="char:EOLhyphen"/>ence. Nay how frivolous would this Law (if it can be called a Law) be, when no real puniſhment can be inflicted on the Offender; for he may when he pleaſes withdraw him<g ref="char:EOLhyphen"/>ſelf, and lawfully bid defiance to that Sta<g ref="char:EOLhyphen"/>tute. So that their Laws will have a different effect from the Laws of the whole World beſide; For whereas other Laws do (or ſhould) amend a Common-wealth, ours can produce nothing but the <hi>Houſes</hi> deſtruction; for if they are diſtaſtfull to us, we may all of us if we pleaſe retreat out of their reach, and ſo the ſociety muſt fall.</p>
+            <p>But the thing is ſo clear, that I ſhall have more charity than to think any mans judge<g ref="char:EOLhyphen"/>ment ſo weak as not to grant this Propoſition, That it is impoſſible for abſolute Authority &amp; Equality to conſiſt in the ſame Perſon with reſpect to the ſame Subject. And now I ſhall proceed. But firſt I will remove an Objecti<g ref="char:EOLhyphen"/>on out of my way that I may paſs more freely.
+<pb n="8" facs="tcp:107480:10"/>
+'Tis this, ſome may ſay thoſe diſtinctions of <hi>Bench, Barre,</hi> and <hi>under the Barre,</hi> ſhow a per<g ref="char:EOLhyphen"/>fect inequality and abſolutely deſtroy the for<g ref="char:EOLhyphen"/>mer ſuppoſed parity. To this the Anſwer is plain, Theſe are only diſtinctions in reſpect of priority of <hi>time,</hi> and <hi>ſtanding,</hi> not of <hi>power</hi> and <hi>juriſdiction.</hi> And conſequenrly being on<g ref="char:EOLhyphen"/>ly gradual, have not the energy in them as to put ſuch a vaſt difference between us as that of <hi>Lord</hi> and <hi>Vaſſal,</hi> and certainly that trafiti<g ref="char:EOLhyphen"/>on is too nimble, and the conſequence invalid to paſs and conclude from a priority in time, a ſuperiority of power and dominion, eſpeci<g ref="char:EOLhyphen"/>ally if that old Maxime holds true <hi>Gradus non variat ſpeciem.</hi> But again, thoſe ſmall re<g ref="char:EOLhyphen"/>mains <hi>&amp; veſtigia</hi> that we have of what our former Condition was, give light enough to ſee this fallacy. For the ſtyle of all the an<g ref="char:EOLhyphen"/>tient Orders of the Houſe runs, <hi>the Fellows of the Society of the Inner. Temple,</hi> and even at this day their own Acts are ſo worded, <hi>Be it en<g ref="char:EOLhyphen"/>acted that none of the Fellows of this Houſe come into Commins at Chriſtmaſs.</hi> Now I pray what means this <hi>Fellowſhip?</hi> wherein con<g ref="char:EOLhyphen"/>ſiſts this <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, this <hi>community, &amp;c?</hi> What is it only in reverend complyance, and humble ſubmiſſion to all their Maſterſhips commands? an implicite Faith in all their
+<pb n="9" facs="tcp:107480:10"/>
+Acts? If ſo, it is ill done their Maſterſhips do not undeceive the world, and ſhow them how the doting Philoſophers, and <hi>Alciat, Cujace, Grotius</hi> and thoſe ignorant Lawyers miſ-in<g ref="char:EOLhyphen"/>formed them in ſaying <hi>Socii in ſua ſocietate ſant aequales.</hi> And (as being their Servant I am bound) I do humbly advice them out of a tender reſpect to their good, to do it quickly; for till then many that are only <hi>honeſt plain men</hi> may think, that the <hi>Puny</hi> of the Houſe being included in that name of <hi>Fellow</hi> as well as the graveſt Bencher, ought in the Govern<g ref="char:EOLhyphen"/>ment of the Houſe, wherein his intereſt is con<g ref="char:EOLhyphen"/>cerned as much as the other, to have a Fellow<g ref="char:EOLhyphen"/>ſhip or Community equally with him, and not to have his Purſe diſpos'd, or his Cham<g ref="char:EOLhyphen"/>ber ſeized for the breach of an Act, to the making of which he never gave conſent, nei<g ref="char:EOLhyphen"/>ther by himſelf nor Repreſentative. And this I think is the true and only notion of the word <hi>Fellow,</hi> except their Maſterſhips take it in the catachreſtical ſence, as when we ſay <hi>a proud ſilly Fellow,</hi> and that is nothing to our purpoſe.</p>
+            <p>As for <hi>Stipulation</hi> or <hi>Paction,</hi> that this gave birth to their Power; I think themſelves do not affirm it. If they do fix it here, it is neceſſary they ſhould ſhew where;
+<pb n="10" facs="tcp:107480:11"/>
+when, by whom, and upon what ground this Paction was made. For if they do not this, they muſt pardon us if we be ſo favourable to our Anceſtors, as to think them wiſer than to part with their Liberty on a trivial, or no ac<g ref="char:EOLhyphen"/>count. But ſuppoſing they could prove ſuch a Contract, yet we are out of the reach of it; for the Society being voluntary thoſe Perſons could only oblige themſelves, and they dying their Paction periſhed with them. For to impoſe it on Poſterity; what power had they? I am ſure the Law of the Land could give them none, they had no Patent to enable them, and to take ſuch a power to themſelves I think they could not, certainly it is againſt the Civil law, <hi>L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ult. de Collegiis, ff:</hi> So that this Compact could have the countenance of no Law, except that of <hi>So<g ref="char:EOLhyphen"/>lons,</hi> which give liberty to men to make a So<g ref="char:EOLhyphen"/>ciety for robbing and plundering <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Bodin de Rep. l.</hi> 3. <hi>c.</hi> 7.</p>
+            <p>The whole ſtreſs therefore of their Autho<g ref="char:EOLhyphen"/>rity is upheld by Cuſtome, but I am afraid we ſhall find it too weak a ſupport for ſo large a Power as they have uſurpt. For let us look into the nature of Cuſtom, and we ſhall find it be converſant only about Particulars, and never to dilate it ſelf to an Univerſality. For
+<pb facs="tcp:107480:11"/>
+example, ſuch a Town or place hath by a ta<g ref="char:EOLhyphen"/>cite conſent of the People time out of mind, uſed to do ſuch or ſuch a thing, this is lawfull; but who ever heard of ſuch a Place or Perſon where by Cuſtom they may do what they pleaſe. A man by Cuſtom may hunt in my Grounds, but who can imagine a Cuſtom whereby he may do what he will upon my Lands? We ſhall not deny the <hi>Gentlemen</hi> of the <hi>Bench</hi> what they can rationally pretend to. We are ſo good Moraliſts as to have a Reverence for Gray hairs, and give Age its due reſpect, and God forbid but that they ſhould have priority and precedency, let the <hi>Phariſee</hi> have the firſt place in the <hi>Synagogue;</hi> Nay let them manage the Affaires of the Houſe. But they muſt pardon us if we en<g ref="char:EOLhyphen"/>deavour to ſtop their Cuſtom when it comes to invade our Purſes, and take away our Mo<g ref="char:EOLhyphen"/>ny without our conſent; drive us out of the Society and diſ-ſeize us of our Freehold, diſ<g ref="char:EOLhyphen"/>grace us in the face of the Nation, and injuri<g ref="char:EOLhyphen"/>ouſly throw us into Priſon. That the ſmaller part of a Society can do theſe things, and Cuſtom legitimate, it I cannot think: I am ſure it is the Opinion of a very learned Man, and no mean <hi>Lawyer,</hi> That for One Perſon, or the Smaller part of a Society to have a Juriſdic<g ref="char:EOLhyphen"/>tion
+<pb facs="tcp:107480:12"/>
+over the reſt, is an abſolute deſtruction of the Society, <hi>Si univerſos coe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cendi jus habet, non Collegium ſed dominatus in ſummo principe,</hi> Bod. de Rep. l. 3. c. 7. Nay farther, he ſhows in this Chapter, That if the Major part or two parts of three ſhould make a Law to oblige themſelves to decide all Controverſies among themſelves, or concerning any thing that reflects on the private intereſt of the Fel<g ref="char:EOLhyphen"/>lows, it would be inſignificant, except it had the conſent of every individual Perſon. Nay theſe things being againſt the Law of the Land, that a private Society can by any Cu<g ref="char:EOLhyphen"/>ſtom make them lawfull is a thing impoſſible, and the attempt of it may make them <hi>Collegi<g ref="char:EOLhyphen"/>um illicitum</hi> an unlawfull Aſſembly; And this the law of the <hi>xii. Tables</hi> agrees to, where ſpea<g ref="char:EOLhyphen"/>king even of Incorporated Societies it ſayes, <hi>Pactionem quam velint, ſibi ferre, dum ne quid ex publica lege corrumpant.</hi> And again, to make up this Cuſtom there is wanting an <hi>un<g ref="char:EOLhyphen"/>interrupted praeſcription</hi> and <hi>tacite conſent.</hi> For there never paſſed ten, (nay I dare boldly ſay five, nor three years without a ſharp queſtio<g ref="char:EOLhyphen"/>ning and a loud exclaiming againſt their <hi>En<g ref="char:EOLhyphen"/>croachments.</hi> Nay thoſe ſmall Index's, the remains and ruines of our <hi>ſhipwracked Liberties</hi> ſufficiently ſhow, that theſe things were not
+<pb facs="tcp:107480:12"/>
+ſo <hi>ab initio;</hi> what means it that the Gentlemen of the <hi>Bar</hi> have a Liberty to come into the <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> but as it were into <hi>Pythagoras</hi> School, or like <hi>Mutes</hi> attending a <hi>Caball</hi> of <hi>Baſhaws,</hi> they muſt not dare to <hi>whiſper?</hi> What do theſe Perſons (the <hi>generality</hi> of whom, are grave and ſage men) onely come to ſee how the <hi>Senators ſit,</hi> or to <hi>learn to propoſe a Queſtion?</hi> I ſhould be apt to believe they had (before Craft and the Ambition of a ſole Dominion thruſt them out) as free a Vote as the beſt <hi>Bencher;</hi> and that which in<g ref="char:EOLhyphen"/>creaſes my Suſpition is, that the fear of this, leaſt any Noble Spirit ſhould attempt to ſnatch at this <hi>loſt liberty</hi> makes them never to debate things in the <hi>Parliament,</hi> but in a clan<g ref="char:EOLhyphen"/>cular way they agree upon it at the <hi>Bench-table,</hi> or a <hi>private Chamber,</hi> and when they come to the <hi>Parliament chamber,</hi> the proper place to diſcuſs them, as ſoon as they are ſet, the <hi>Treaſurer</hi> ſayes, All that are of Opinion, that <hi>(ſuppoſe it the Queſtion)</hi> the <hi>Author</hi> of this <hi>Pamphlet</hi> ſhall be <hi>hang'd, drawn</hi> and <hi>quar<g ref="char:EOLhyphen"/>tered</hi> for his <hi>High Treaſon</hi> againſt the <hi>Bench,</hi> let them ſay, <hi>I.</hi> As ſoon as the Eccho hath anſwered the Buſineſs is agreed, and they riſe, and ſo there's an end of an <hi>Inner-Temple Parliament.</hi> What does the antient
+<pb facs="tcp:107480:13"/>
+Cuſtom of having one of the <hi>Bench,</hi> one of the <hi>Barre,</hi> and one <hi>under</hi> the <hi>Bar</hi> to ſit upon the <hi>Accounts,</hi> but loudly ſpeak the prudence and care of our <hi>Anceſtors</hi> that none of us ſhould be prejudiced one <hi>peny?</hi> But what a vaſt difference is there between the ſubtilty of theſe daies and the ſincerity of thoſe times? For that <hi>Noble Gentleman</hi> who hath ſuffered (how juſtly all the World ſpeaks) ſo much, and bin the <hi>Martyr</hi> of this <hi>Cauſe,</hi> had the firſt cloud of the <hi>Benches diſtaste</hi> raiſed againſt <hi>him</hi> for nought elſe but aſſerting this <hi>antient, con<g ref="char:EOLhyphen"/>ſtantly practiſed,</hi> and <hi>juſt Cuſtom.</hi> Wherein <hi>he</hi> did like a good <hi>Phineas</hi> ſtand in the <hi>Gappe,</hi> and made the <hi>Plague</hi> ceaſe for that time. But their diſpleaſure did not ſo, but feſtering into a <hi>rank Malice,</hi> hath ſhowed it ſelf in the ſeve<g ref="char:EOLhyphen"/>reſt way <hi>Anger</hi> and an <hi>high fury</hi> could invent. Let any man but read <hi>Forteſcue,</hi> where he diſ<g ref="char:EOLhyphen"/>courſeth of the <hi>Innes of Court,</hi> and ſhow me the leaſt ſign of a <hi>Lording Bench</hi> in thoſe daies; He ſayes, <hi>Ibi vix unquam ſedicio, jurgium, aut murmur reſonat, &amp; tamen delinquentes non alia quam poenâ ſolum a communione Societatis ſuae amotione plectuntur,</hi> Forteſc. de laud. leg. Ang. c. 49. Here you ſee the calm peace of our <hi>Golden age,</hi> when <hi>pride</hi> and <hi>ambition</hi> had not prompted <hi>Men</hi> to engroſſe <hi>Power.</hi> There was
+<pb facs="tcp:107480:13"/>
+then no Fineing, no Seizing of Chambers, no hurrying to Priſon, nor expulſion out of the Houſe, it was only <hi>am<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tio à communione Societatis,</hi> it was not <hi>extruſio è Societate.</hi> Thus then it is plain, that the power which the <hi>Bench</hi> take is only uſurpt, for it is contrary to the Nature and Conſtitution of the Society; It hath no ground on paction or contract, Nor is it in the power of Cuſtome to con<g ref="char:EOLhyphen"/>firm it, nay as far as we can gueſſe, it is oppo<g ref="char:EOLhyphen"/>ſite to the more Antient Cuſtoms of the Houſe; And conſequently, the Acts made by, and grounded on this power, being un<g ref="char:EOLhyphen"/>juſt, illegal, and tyrannical, the breach of them is no offence, and to impoſe and inflict a puniſhment for the non-obſervance of them, is to adde injuſtice to injuſtice, and aggravate their Crime.</p>
+            <p>Thus I have done with the Firſt Part, I ſhall now proceed to the Second, and ſhew how that granting them power to make that Act; yet upon the whole matter, the Caſe will be ſo circumſtantiated, as to take off the penalty, ſo that the rigorous proſecuting it, is either wholly unjuſt, or at the beſt but <hi>ſum<g ref="char:EOLhyphen"/>mum jus.</hi> That this may the better appear, we muſt look back on the previous Circum<g ref="char:EOLhyphen"/>ſtances.</p>
+            <p>
+               <pb facs="tcp:107480:14"/>
+The laſt <hi>Chriſtmas</hi> was Twelve-month we had the Thanks of the Bench for keeping <hi>Chriſtmas,</hi> and that uſually ſum of Money allowed out of the Treaſury given us. At the Parliament on <hi>Allhollantide</hi> laſt, which is the proper Parliament for that Solemnity, they vote a <hi>Chriſtmas,</hi> and give a being to it, by chooſing ſome of the beſt Perſons of Ho<g ref="char:EOLhyphen"/>nour of the Society for Grand Officers. Af<g ref="char:EOLhyphen"/>terwards they ſtifle that Embrio themſelves firſt formed. Here I ſhall humbly enquire, Whether the keeping that Feſtival, or our manner of keeping it, be unfit or undecent, if ſo, their Maſterſhips were very much to blame to give us thanks laſt year, and more to blame to have any thoughts to revive it again, as the firſt Order plainly ſhews they had. But about the latter end of <hi>November</hi> it was when their eyes were enlightned, and they made this damning Act, where we may obſerve the time and manner of promulgation of it, which was in the very concluſion of the Term, when few Gentlemen were in Commins, and then it is fixed at the Screen for an hour or two, and ſo taken (whether for the rarity or the ſhame of it I know not) and lockt up where we muſt ne're ſee it more. Now that ſuch an Act as this, which did con<g ref="char:EOLhyphen"/>travene
+<pb facs="tcp:107480:14"/>
+a conſtant Cuſtome, ſhould have ſuch a clancular ſurreptitious promulgation as this, is ſomething ſtrange, for there is very few of us that know, except it be by report, that there is ſuch an Act, and none can tell (having only a reading of it) what Salvo's may be in it, and what the extent of it is. The Gentlemen thinking they had as much right to govern then, as the <hi>Bench</hi> in Term time, and that an Act of theirs was no more obli<g ref="char:EOLhyphen"/>ging to them in this reſpect, than an Act of a <hi>Chriſtmas Parliament</hi> was to the Bench, and ſuppoſing that rule to be true, <hi>conſuetudinem praeſcriptam aliâ conſuetudine praeſcriptâ contra<g ref="char:EOLhyphen"/>ria tolli, gloſſ. ſi que in l. nemo ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> temporalis.</hi> They reſolve on keeping of <hi>Chriſtmas,</hi> and that they might avoid the Cenſure of raſh<g ref="char:EOLhyphen"/>neſſe and heat, which is often incident to youth, they reſolve to proceed ſoberly, and therefore attend the Solicitor, and informe him of their proceedings; he gave them his Anſwer as I informed you before in the ſtate of the Buſineſſe; We deſired the Keyes, he refuſing them, we were forced to break o<g ref="char:EOLhyphen"/>pen the doors and take poſſeſſion of our right, and how the affairs of that time were mana<g ref="char:EOLhyphen"/>ged; how free from diſturbance and thoſe in<g ref="char:EOLhyphen"/>conveniences which uſually attend ſuch a
+<pb facs="tcp:107480:15"/>
+confluence, we leave to thoſe Gentlemen, perſons of no mean Quality, that daily ho<g ref="char:EOLhyphen"/>noured us with their Company, to ſpeak im<g ref="char:EOLhyphen"/>partially. In ſhort then I ſhall propoſe this Quaere, That when the Gentlemen had thanks for their former <hi>Chriſtmaſs,</hi> and that this laſt <hi>Chriſtmaſs</hi> had its beginning from the Bench it ſelf, though afterwards in a cloſe and undermining way they ſuppreſt it, ſo that the Gentlemen could not have a legal redreſs then, notwithſtanding that they proceeded in vindicating their <hi>Privileges</hi> with all mode<g ref="char:EOLhyphen"/>ration, they go to the Solicitor, he giving them no abſolute prohibition, they execute their intentions, but with ſuch quietneſſe and freedom from diſorder, as might from mo<g ref="char:EOLhyphen"/>derate perſons have merited Commendati<g ref="char:EOLhyphen"/>ons; and having ended that, and put a period ſooner then uſuall to the Solemnity, that they might not in the leaſt tranſgreſſe, they return with calm and compoſed Spirits into Com<g ref="char:EOLhyphen"/>mins; I ſay, I ſhould ask any Rational man, whether for theſe Actions the Gentlemen deſerved to have two of them put out of Commins, another not only expelled the Houſe, diſpoſſeſſed of his Chamber, which is his Free-hold, defamed and diſgraced with an induſtrious Malice, but ſent where paſſion
+<pb n="19" facs="tcp:107480:15"/>
+and fury hurries him to Priſon, without let<g ref="char:EOLhyphen"/>ting him open his mouth in his own defence, or objecting the leaſt ſuſpition of Crime, as if that Clauſe in <hi>Magna Charta, Nullus liber homo capiatur vel Impriſonetur,</hi> had ſome tacite Exception, which excludes <hi>a Gentleman of the Temple</hi> from the benefit of it. Now who can imagine this puniſhment to be Adaequate to the Offence? Who is ſo blind as not to ſee a vaſt deſparity between the one and the other: Nay one more concluſion we may lawfully draw from theſe premiſſes, which is this, That the Gentlemen of the Bench have a far larger reſpect and care of their own Grandeur and Honour, then the Credit, Reputation and Peace of the Houſe: For, what elſe ſpeaks this violence and earneſtneſſe? Had they any bowells of compaſſion or pitty, cer<g ref="char:EOLhyphen"/>tainly theſe diſſenſions and diſcompoſures would move them? Had they any love or affection for the Society, they could not chooſe but recede from theſe punctilio's of Honour, nay even give up ſome of their power, that there might be a happy compo<g ref="char:EOLhyphen"/>ſure &amp; an amicable correſpondence between us? But I have alwayes obſerved, that where there is any thing of Honour or Profit, th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t we muſt have no ſhare in, that is our <hi>Lords</hi>
+               <pb facs="tcp:107480:16"/>
+               <hi>and Maſters Lot,</hi> not fit for Boyes; but if there is any thing of <hi>Danger or Coſt,</hi> oh then the <hi>Young Gentlemen</hi> muſt be conſulted with, and of this I will give you own pregnant in<g ref="char:EOLhyphen"/>ſtance. In the worſt times of our late unhap<g ref="char:EOLhyphen"/>py troubles, Mr. <hi>Johnſon</hi> the Miniſter going to a living in the Country, Mr. <hi>Tombes</hi> comes with a Letter of Commendation from the Committee of Safety to the Bench, to chuſe him into the vacant place; It happens they had no Affection for the man, but refuſe him they dare not, for fear the <hi>Weſtminſter Juncto</hi> ſhould prove Benchers to them, and ſerve them as they ſerve us, to eſcape the Hornes of this <hi>Dilemma,</hi> they find this expedient<hi>:</hi> They ſay, we have but ſingle Votes, it is the <hi>Young Gentlemen</hi> being more numerous, as they pleaſe; well, the Gentlemen are called, and Vote, Mr. <hi>Tombes</hi> is exploded, the Benches work is done, and the Gentlemen may ſet their hearts at reſt for any more chuſ<g ref="char:EOLhyphen"/>ing a Miniſter, for when he comes really to be choſen, then the Tune is new ſet; What, Boyes have an Election, do they know how to chuſe a Miniſter, or what belongs to ſound Doctrine? Thus you ſee the kindneſſe of theſe Gentlemen, that in thoſe ſullen and captious times, when the leaſt ſuſpition was
+<pb facs="tcp:107480:16"/>
+enough to have ruined a Man, and there were many of as good, if not better Fortunes than themſelves, whom they cared not to ſacri<g ref="char:EOLhyphen"/>fice to thoſe ravenous Times, ſo they might but eſcape free themſelves. This un<g ref="char:EOLhyphen"/>gentile, nay I had almoſt ſaid unhuman De<g ref="char:EOLhyphen"/>meanor, with their generally ſlight and ſu<g ref="char:EOLhyphen"/>percilious Carriage towards us, indeed does ſomething move my choller, but I have pa<g ref="char:EOLhyphen"/>tience enough, when I think theſe Actions are ſufficient puniſhment to themſelves, and the <hi>Infamy</hi> which cleaves to them carries <hi>ſting</hi> e<g ref="char:EOLhyphen"/>nough to excuſe a <hi>Satyr.</hi>
+            </p>
+            <p>To conclude therefore I ſhall give you a ſhort Character of the Government of the Houſe, as ſtands now, that as you have ſeen what it ought to be, ſo now you may ſee what it is. It is a kind of <hi>Judaical, Presbyte<g ref="char:EOLhyphen"/>rian, Fanatical Regimen,</hi> which ſavors ſome<g ref="char:EOLhyphen"/>thing of a <hi>Sanhedrim</hi> with the <hi>Naſi;</hi> it hath a huge ſmack of a <hi>rigid excommunicating Claſsis</hi> with <hi>a Superintendent;</hi> it ſmells very ſtrong of a <hi>Rump-Parliament;</hi> it is a Company of <hi>Grave men</hi> to whom ſuperſides a <hi>Judas</hi> or <hi>Treaſurer.</hi> The foundation of their <hi>Government</hi> is <hi>Cuſtom,</hi> by this they have power to make Laws which bind <hi>all</hi> but <hi>themſelves.</hi> By Cuſtom Drun<g ref="char:EOLhyphen"/>keneſſe cauſes neither Sin, nor ſickneſs in a
+<pb facs="tcp:107480:17"/>
+               <hi>Bencher.</hi> By Cuſtom he may ſleep at Church, and it is expulſion and forfeiture of <hi>Chamber</hi> for a young ſtudent to wake him, and diſturb his delightfull Dreams, and all that aſſiſt, a<g ref="char:EOLhyphen"/>bet, or counſel him in ſo horrid an Act are to be put out of Commins. By Cuſtom he is to have at Dinner and Supper four or five Diſhes of Meat, and as much good Wine as he can handſomely bear, with a Bottle or two to carry to his Chamber to accompliſh the Work, and beſides Commins for a Man or two, and all this for <hi>fourteen</hi> or <hi>ſixteen ſhillings</hi> a week, and that to be paid when his Maſterſhip thinks fit; when as the Cuſtom is, That a young Student muſt pay <hi>nine ſhillings</hi> a week for Loyns of Mutton, Pottage and Small beer. By Cuſtom he is to have Cham<g ref="char:EOLhyphen"/>bers for him and his Wife, but if ſhe multiply much (and 'tis a diſcredit to the Society if ſhe don't) if a <hi>Naboth</hi> be the next Wall to this <hi>Ahab</hi> it is but expelling him the Houſe, and begging the <hi>Vineyard,</hi> and ſo he may enlarge his Quarters. If any of theſe Cuſtoms chance to be queſtioned, who do you think is the <hi>Judge?</hi> why the <hi>Reverend Butler</hi> is called, and when the <hi>Coloſſus</hi> is advanced, the mouth of the <hi>Bench</hi> opens, and asks him, <hi>if this hath not been the conſtant Cuſtom of the Houſe.</hi>
+               <pb n="23" facs="tcp:107480:17"/>
+The <hi>inſpired Oracle</hi> anſwers, <hi>I my ſelf can ſafely ſwear, 'thas been the Cuſtom for this Forty year, and my Predeceſſor ſwore it had been ſo e're ſince the</hi> Conquerors daies. Then the <hi>charming Orator</hi> with a compoſed Countenance, ha<g ref="char:EOLhyphen"/>ving ordered his Gown and his Gloves gravely begins thus,</p>
+            <floatingText xml:lang="eng" type="speech">
+               <body>
+                  <p>Open your Eyes (O ye <hi>Lads)</hi> and ſee the way your <hi>Forefathers</hi> trod in, and cannot you be contented to trot after them<g ref="char:punc">▪</g> thoſe Worthies haſted upon the Cariere of Ho<g ref="char:EOLhyphen"/>nor and Admiration in obſerving thoſe Cuſtoms I exhort you to, and will you creep a Foot-pace in that perfect path? Let it never be ſaid that the <hi>Gentlemen</hi> of the <hi>Inner Temple,</hi> whoſe Loyalty to the great Majeſty of <hi>Britain</hi> has been ſo eminently viſible ſhould now diſhonourably quit their Allegiance to their <hi>Benchers,</hi> who (if that Topique <hi>à Majore ad Minus</hi> be valid) merit Reverence purely Analogical to that of their <hi>Soveraign?</hi> 'tis ill done, 'tis I pro<g ref="char:EOLhyphen"/>teſt, to you to be ſeen in any thing (though a Trifle) which may revive the Name of <hi>Rebellion,</hi> were it but in Caſe of a Servant to his Maſter; but in yours unſpeakably fa<g ref="char:EOLhyphen"/>cinorous,
+<pb n="24" facs="tcp:107480:18"/>
+better the greateſt extravagances better <hi>Plum-pottage on a Candlemas day,</hi> bet<g ref="char:EOLhyphen"/>ter any thing <hi>caſt into your Diſh,</hi> than Diſobe<g ref="char:EOLhyphen"/>dience, that's the <hi>Colloquintidae</hi> that ſpoyles all the Meſſe, that battering Ram that de<g ref="char:EOLhyphen"/>moliſhes the faireſt Fortifications your o<g ref="char:EOLhyphen"/>other Endowments have at any time erect<g ref="char:EOLhyphen"/>ed. Methinks <hi>(Gentlemen)</hi> your own In<g ref="char:EOLhyphen"/>genuity ſhould prompt you to a timely Submiſſion; methinks the <hi>black,</hi> the <hi>red,</hi> the <hi>grey hairs</hi> of their Reverend <hi>Maſterſhips</hi> of the <hi>Bench,</hi> ſhould have enough of <hi>Trope</hi> in them to perſwade you to it. 1. The <hi>Block heads</hi> they reſemble <hi>Pitch,</hi> there is a <hi>Noli me tangere</hi> written in their Foreheads, touch them not leſt you be defiled. 2ly. The <hi>Red,</hi> and that repreſents the great Orb of Light, the <hi>Sun,</hi> whom the <hi>Perſians</hi> made the ſingular Object of their Adoration. That Head (if man be <hi>Arbor inverſa)</hi> has its Root (be it <hi>Carrott</hi> if you pleaſe in <hi>Hea<g ref="char:EOLhyphen"/>ven,</hi> and that is high. 3ly. The <hi>white hoar heads,</hi> there's Snow upon them (Sirs) there's much of the <hi>Alpes</hi> in them, and let me tell you though their Crowns be white, the embleme of good nature, yet if you ſubmit not the ſooner you'l find their Hearts
+<pb n="25" facs="tcp:107480:18"/>
+of the ſame complexion with thoſe <hi>Moun<g ref="char:EOLhyphen"/>tains,</hi> hard and immovable. You would do well to caſt your Eyes on the <hi>greatneſs</hi> of one of your chief Officers, a <hi>Butler</hi> in be<g ref="char:EOLhyphen"/>ing, but in bulk a <hi>Bencher,</hi> 'tis his perempto<g ref="char:EOLhyphen"/>ry Opinion you are in an <hi>error.</hi> The <hi>Cuſtom of the Houſe, Preſcription</hi> before <hi>Adam</hi> pleads againſt you, your chief Butler ſayes ſo, who is in the Eye of the World a Perſon of very <hi>vaſt parts,</hi> and better able to interpret <hi>Cu<g ref="char:EOLhyphen"/>ſtom</hi> than the <hi>Mahumetan Mufti</hi> to unriddle the <hi>Alcoran.</hi> He is the <hi>Atlas</hi> that bears up Heaven for you. Infidelity in that Boys teeth that doubt the verity of this <hi>Oracle.</hi> Proud as you are (Sirs) every of you <hi>came behind him</hi> when he led you into Com<g ref="char:EOLhyphen"/>mins, and why are you grown too good to <hi>follow</hi> him now? To conclude, the mouths of the <hi>Bench</hi> are ſtill as wide open to feed upon your Coſt as in the daies of old; their arms expanded to receive you into favour again: they are content (not<g ref="char:EOLhyphen"/>withſtanding all your undutifulneſs) to in<g ref="char:EOLhyphen"/>demnifie you all next year, keep <hi>Chriſtmaſs</hi> with all their Hearts; only they expect you now acknowledge your Miſdemeanors, &amp; return to your <hi>Fleſh pots</hi> &amp; <hi>Garlique.</hi> But
+<pb n="26" facs="tcp:107480:19"/>
+why am I thus prodigal of my Rhetorique to green raſh Heads, who are more effectu<g ref="char:EOLhyphen"/>ally reducible by a Rod than an Oration? In a word therefore (Sirs) it is a plain Caſe, ſubmit your ſelves, and that quickly too or we <hi>Benchers</hi> will make you.</p>
+                  <byline>Dixi HIGGIN.</byline>
+               </body>
+            </floatingText>
+            <p>Now what man of Ingenuity had not ra<g ref="char:EOLhyphen"/>ther be Author of ſuch a <hi>Speech</hi> than Maſter of 1000<hi>l.</hi> But Gentlemen I hope you have ſo much diſcretion as to ſee into the fallacy of ſuch fair words, ſo much care of your Privi<g ref="char:EOLhyphen"/>leges and Liberty as not to ſacrifice them to the will and pleaſure of One whom the puffy and aery name of an <hi>Orator</hi> hath ſo ſwelled beyond the bounds of Reaſon or a moderate Ambition, that he vainly fancies it the Duty of ye all to ſubmit to his Dictates, to yield Obedience to all thoſe Laws, the extrava<g ref="char:EOLhyphen"/>gant Capriccio's of an humerous Brain can invent. But the humble advice of your Ser<g ref="char:EOLhyphen"/>vant (who hath a deſire, though not a corre<g ref="char:EOLhyphen"/>ſpondent
+<pb n="27" facs="tcp:107480:19" rendition="simple:additions"/>
+ability to ſerve you) is, that where that Reaſon and Juſtice bids you ſubmit, let no men be more foreward or ready in Obe<g ref="char:EOLhyphen"/>dience than your ſelves: and on the contra<g ref="char:EOLhyphen"/>ry, when Pride and Ambition do endeavour to oppreſſe you, let none ſhow more cou<g ref="char:EOLhyphen"/>rage or ſpirit in aſſerting a good Cauſe.</p>
+            <epigraph>
+               <q>Flectere ſi nequeo <hi>Superos, Acheronta</hi> movebo. <bibl>
+                     <hi>Virgil.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
